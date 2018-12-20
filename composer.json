@@ -1,5 +1,5 @@
 {
-    "name": "verdant/xml2array",
+    "name": "vaimo/xml2array",
     "description": "Convert from XML to array, array to XML, based on libs from lalit.org",
     "license": "Apache-2.0",
     "type": "library",
